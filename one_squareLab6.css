@@ -1,0 +1,52 @@
+#DrawLine {
+background-color: black;
+color: white;
+}
+
+#DrawTri {
+background-color: black;
+color: white;
+}
+
+#DrawRed {
+background-color: red;
+}
+
+#DrawBlue {
+background-color: blue;
+}
+
+#DrawGreen {
+background-color: green;
+}
+
+#DrawPurple {
+background-color: purple;
+}
+
+#DrawYellow {
+background-color: yellow;
+}
+
+#DrawCyan {
+background-color: cyan;
+}
+
+#DrawBlack {
+background-color: black;
+color: white;
+}
+
+#DrawWhite {
+background-color: white;
+}
+
+.primitives {
+display: inline-block;
+margin: 10px;
+}
+
+.colors {
+display: inline-block;
+margin: 10px
+}
